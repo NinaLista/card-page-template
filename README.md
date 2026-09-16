@@ -1,7 +1,9 @@
-# Project descrption — Visual Project Memo 
+# Project descrption — Visual Project Memo Page Template
 
-This repository is a lightweight private project memo site.
+This repository is the template for a lightweight project memo site.
 Jekyll -> GitHub Pages code & structure created and debugged with AI assistance, ChatGPT 5.6 Sol High 9/2026. 
+
+Reusable Jekyll/GitHub Pages template for a responsive project showcase: Markdown-driven cards, automatic tag filters, sorting, image and text cards, 3D flip interactions, internal project notes, and lightweight static deployment.
 
 ## Repository structure
 
@@ -118,9 +120,6 @@ This is the longer public-safe description.
 
 ## Images
 
-Demo SVG placeholders.
-Intention: JPEG/WebP, SVG simple graphics. 
+Demo SVG placeholders (source ChatGPT).
+Intention: to be replaced by JPEG/WebP, SVG simple graphics. 
 
-## Making updates: GitHub Desktop workflow & .gitignore
-
-Edit in cloned repo folder -> review **Changes** list ->  commit -> commit and push. See what `.gitignore` keeps out.
